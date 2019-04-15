@@ -2,3 +2,27 @@
     font-size: 20px;
     color: green;
 }
+
+.utility{
+    width: 160px;
+    background-color: rgba(0, 0, 0, 0.055);
+}
+
+.utility__rubyWrap{
+    position: relative;
+
+}
+
+.utility__subtitle{
+    font-size: 32px;
+
+}
+
+.utility__subtitleRuby{
+    position: absolute;
+    font-size: 12px;
+    left: 38px;
+    right: 0px;
+    top: -32px;
+
+}
